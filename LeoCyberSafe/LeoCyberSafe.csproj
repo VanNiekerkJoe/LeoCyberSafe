@@ -11,8 +11,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="System.Security.Cryptography.Algorithms" Version="4.3.0"/>
-		<PackageReference Include="System.Text.Json" Version="6.0.0"/>
+		<PackageReference Include="System.Security.Cryptography.Algorithms" Version="4.3.0" />
+		<PackageReference Include="System.Text.Json" Version="6.0.0" />
 	</ItemGroup>
 
 	<ItemGroup>

@@ -73,15 +73,16 @@ namespace LeoCyberSafe.Utilities
             // Update menu display
             Console.WriteLine(@"
 ╔════════════════════════════╗
-║   LEO CYBERSAFE v420.0     ║
+║   LEO CYBERSAFE v2.1       ║
 ╠════════════════════════════╣
 ║ 1. 🔐 Password Audit       ║
 ║ 2. 🎣 Phishing Test        ║
 ║ 3. ⚠️  Threat Scan         ║
 ║ 4. 📚 Security Tips        ║
 ║ 5. 🛠️  Password Generator  ║
-║ 6. 📝 Secure Notes         ║
-║ 7. 🚪 Exit                 ║
+║ 6. 💬 Basic Response       ║
+║ 7. 📝 Secure Notes         ║
+║ 8. 🚪 Exit                 ║
 ╚════════════════════════════╝");
 
             Console.ResetColor();
