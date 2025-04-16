@@ -1,6 +1,5 @@
 # LeoCyberSafe - Cybersecurity Assistant
 
-![LeoCyberSafe Logo](https://via.placeholder.com/150) *(optional: add your logo)*
 
 A comprehensive cybersecurity assistant featuring password auditing, phishing simulations, threat scanning, and secure note storage.
 
