@@ -1,5 +1,6 @@
 ﻿using LeoCyberSafe.Core.Models;
 using System;
+using System.Text;
 using System.Threading;
 
 namespace LeoCyberSafe.Utilities
@@ -38,6 +39,32 @@ namespace LeoCyberSafe.Utilities
             return name;
         }
 
+
+
+        public static string ReadPassword()
+        {
+            var password = new StringBuilder();
+            while (true)
+            {
+                var key = Console.ReadKey(true);
+                if (key.Key == ConsoleKey.Enter)
+                    break;
+
+                if (key.Key == ConsoleKey.Backspace && password.Length > 0)
+                {
+                    password.Remove(password.Length - 1, 1);
+                    Console.Write("\b \b");
+                }
+                else if (!char.IsControl(key.KeyChar))
+                {
+                    password.Append(key.KeyChar);
+                    Console.Write("*");
+                }
+            }
+            Console.WriteLine();
+            return password.ToString();
+        }
+
         // Enhanced Methods
         public static void DisplayMainMenu(string userName)
         {
@@ -52,9 +79,11 @@ namespace LeoCyberSafe.Utilities
 ║ 2. 🎣 Phishing Test        ║
 ║ 3. ⚠️  Threat Scan         ║
 ║ 4. 📚 Security Tips        ║
-║ 5. ❓ Cybersecurity Q&A    ║ 
-║ 6. 🚪 Exit                 ║
+║ 5. 🛠️  Password Generator  ║
+║ 6. 📝 Secure Notes         ║
+║ 7. 🚪 Exit                 ║
 ╚════════════════════════════╝");
+
             Console.ResetColor();
             Console.WriteLine($"\nWelcome, {userName}!");
         }

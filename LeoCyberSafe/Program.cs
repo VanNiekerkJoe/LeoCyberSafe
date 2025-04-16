@@ -2,6 +2,7 @@
 using LeoCyberSafe.Features.Password;
 using LeoCyberSafe.Features.Phishing;
 using LeoCyberSafe.Features.Questions;
+using LeoCyberSafe.Features.SecureNotes;
 using LeoCyberSafe.Features.Tips;
 using LeoCyberSafe.Utilities;
 using System;
@@ -23,6 +24,10 @@ namespace LeoCyberSafe
             AudioHelper.PlayWelcomeSound();
             ConsoleHelper.DisplayAsciiArt();
             string userName = ConsoleHelper.GetValidName();
+
+            // Initialize Secure Notes with master password
+            Console.Write("\nSet master password for secure notes: ");
+            NoteService.Initialize(Console.ReadLine()!);
 
             bool exitRequested = false;
             while (!exitRequested)
@@ -58,41 +63,69 @@ namespace LeoCyberSafe
                         tipsService.DisplayTipsByCategory(category);
                         break;
 
-                    case 5: // Cybersecurity Q&A
-                        bool inQAMode = true;
-                        while (inQAMode)
-                        {
-                            Console.Clear();
-                            ConsoleHelper.DisplayQAScreen();
-                            questionService.DisplayAvailableTopics();
-
-                            Console.Write("\nAsk a question (or type 'back' to return): ");
-                            string question = Console.ReadLine()?.Trim() ?? string.Empty;
-
-                            if (string.Equals(question, "back", StringComparison.OrdinalIgnoreCase))
-                            {
-                                inQAMode = false;
-                                continue;
-                            }
-
-                            if (string.Equals(question, "topics", StringComparison.OrdinalIgnoreCase))
-                            {
-                                questionService.DisplayAvailableTopics();
-                                ConsoleHelper.PromptToContinue();
-                                continue;
-                            }
-
-                            string answer = questionService.GetAnswer(question);
-                            Console.ForegroundColor = ConsoleColor.Cyan;
-                            Console.WriteLine($"\n{answer}");
-                            Console.ResetColor();
-
-                            ConsoleHelper.PromptToContinue();
-                        }
-
+                    case 5: // Password Generator
+                        Console.WriteLine("\nGenerated Password: " +
+                            PasswordGeneratorService.GeneratePassword());
+                        ConsoleHelper.PromptToContinue();
                         break;
 
-                    case 6: // Exit
+                    case 6: // Secure Notes
+
+
+
+                        Console.Write("\nEnter your master password: ");
+                        var inputPassword = ConsoleHelper.ReadPassword(); // Masked input
+
+                        if (!NoteService.VerifyPassword(inputPassword))
+                        {
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine("Invalid password!");
+                            Console.ResetColor();
+                            ConsoleHelper.PromptToContinue();
+                            break;
+                        }
+                        bool inNotesMode = true;
+                        while (inNotesMode)
+                        {
+                            Console.Clear();
+                            Console.WriteLine("\nSecure Notes System");
+                            Console.WriteLine("1. Add Note\n2. View Notes\n3. Back");
+                            var noteChoice = Console.ReadLine();
+
+                            if (noteChoice == "1")
+                            {
+                                Console.Write("Title: ");
+                                var title = Console.ReadLine();
+                                Console.Write("Content: ");
+                                var content = Console.ReadLine();
+                                NoteService.AddNote(title!, content!);
+                                Console.WriteLine("Note saved securely!");
+                                ConsoleHelper.PromptToContinue();
+                            }
+                            else if (noteChoice == "2")
+                            {
+                                var notes = NoteService.GetNotes();
+                                if (notes.Count == 0)
+                                {
+                                    Console.WriteLine("No notes found.");
+                                }
+                                else
+                                {
+                                    foreach (var note in notes)
+                                    {
+                                        Console.WriteLine($"\n[{note.Title}]\n{note.Content}");
+                                    }
+                                }
+                                ConsoleHelper.PromptToContinue();
+                            }
+                            else if (noteChoice == "3")
+                            {
+                                inNotesMode = false;
+                            }
+                        }
+                        break;
+
+                    case 7: // Exit
                         exitRequested = true;
                         ConsoleHelper.PrintExitMessage(userName);
                         break;
@@ -105,7 +138,7 @@ namespace LeoCyberSafe
                         break;
                 }
 
-                if (!exitRequested && choice != 5)
+                if (!exitRequested && choice != 5 && choice != 6)
                 {
                     ConsoleHelper.PromptToContinue();
                 }

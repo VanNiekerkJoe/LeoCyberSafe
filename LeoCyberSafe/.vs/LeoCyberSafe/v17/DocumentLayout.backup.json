@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\utilities\\audiohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:utilities\\audiohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\features\\securenotes\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\securenotes\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\leocybersafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:leocybersafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\features\\password\\passwordgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\password\\passwordgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\core\\models\\threatreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,6 +31,14 @@
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:core\\models\\threatscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\features\\password\\passwordauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\password\\passwordauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\features\\phishing\\phishingsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\phishing\\phishingsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\features\\questions\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\questions\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\tips\\cybersecuritytipsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\leocybersafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:leocybersafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\features\\password\\passwordauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\password\\passwordauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\features\\phishing\\phishingsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\phishing\\phishingsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\onedrive\\desktop\\gptutor\\leocybersafe\\utilities\\audiohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:utilities\\audiohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,37 +58,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\SecureNotes\\NoteService.cs",
+              "RelativeDocumentMoniker": "Features\\SecureNotes\\NoteService.cs",
+              "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\SecureNotes\\NoteService.cs",
+              "RelativeToolTip": "Features\\SecureNotes\\NoteService.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:46:00.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordGeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Password\\PasswordGeneratorService.cs",
+              "RelativeDocumentMoniker": "Features\\Password\\PasswordGeneratorService.cs",
+              "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Password\\PasswordGeneratorService.cs",
+              "RelativeToolTip": "Features\\Password\\PasswordGeneratorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:45:13.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordAuditService.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Password\\PasswordAuditService.cs",
+              "RelativeDocumentMoniker": "Features\\Password\\PasswordAuditService.cs",
+              "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Password\\PasswordAuditService.cs",
+              "RelativeToolTip": "Features\\Password\\PasswordAuditService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:47:05.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:58:48.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ConsoleHelper.cs",
               "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Utilities\\ConsoleHelper.cs",
               "RelativeDocumentMoniker": "Utilities\\ConsoleHelper.cs",
               "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Utilities\\ConsoleHelper.cs",
               "RelativeToolTip": "Utilities\\ConsoleHelper.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwDAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwEEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T09:03:33.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AudioHelper.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Utilities\\AudioHelper.cs",
-              "RelativeDocumentMoniker": "Utilities\\AudioHelper.cs",
-              "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Utilities\\AudioHelper.cs",
-              "RelativeToolTip": "Utilities\\AudioHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T09:03:17.777Z",
+              "DocumentIndex": 3,
+              "Title": "LeoCyberSafe",
+              "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\LeoCyberSafe.csproj",
+              "RelativeDocumentMoniker": "LeoCyberSafe.csproj",
+              "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\LeoCyberSafe.csproj",
+              "RelativeToolTip": "LeoCyberSafe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T18:47:43.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "PhishingSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Phishing\\PhishingSimulator.cs",
+              "RelativeDocumentMoniker": "Features\\Phishing\\PhishingSimulator.cs",
+              "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Phishing\\PhishingSimulator.cs",
+              "RelativeToolTip": "Features\\Phishing\\PhishingSimulator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:37:40.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ThreatScanner.cs",
               "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Core\\Models\\ThreatScanner.cs",
               "RelativeDocumentMoniker": "Core\\Models\\ThreatScanner.cs",
@@ -93,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ThreatReport.cs",
               "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Core\\Models\\ThreatReport.cs",
               "RelativeDocumentMoniker": "Core\\Models\\ThreatReport.cs",
@@ -106,80 +179,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAswGsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T08:58:48.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "QuestionService.cs",
               "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Questions\\QuestionService.cs",
               "RelativeDocumentMoniker": "Features\\Questions\\QuestionService.cs",
               "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Questions\\QuestionService.cs",
               "RelativeToolTip": "Features\\Questions\\QuestionService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T17:26:13.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LeoCyberSafe",
-              "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\LeoCyberSafe.csproj",
-              "RelativeDocumentMoniker": "LeoCyberSafe.csproj",
-              "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\LeoCyberSafe.csproj",
-              "RelativeToolTip": "LeoCyberSafe.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-16T09:01:53.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "CybersecurityTipsService.cs",
               "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Tips\\CybersecurityTipsService.cs",
               "RelativeDocumentMoniker": "Features\\Tips\\CybersecurityTipsService.cs",
               "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Tips\\CybersecurityTipsService.cs",
               "RelativeToolTip": "Features\\Tips\\CybersecurityTipsService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowD0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T17:07:35.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PasswordAuditService.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Password\\PasswordAuditService.cs",
-              "RelativeDocumentMoniker": "Features\\Password\\PasswordAuditService.cs",
-              "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Password\\PasswordAuditService.cs",
-              "RelativeToolTip": "Features\\Password\\PasswordAuditService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowD4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "AudioHelper.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Utilities\\AudioHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\AudioHelper.cs",
+              "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Utilities\\AudioHelper.cs",
+              "RelativeToolTip": "Utilities\\AudioHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T15:47:05.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PhishingSimulator.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Phishing\\PhishingSimulator.cs",
-              "RelativeDocumentMoniker": "Features\\Phishing\\PhishingSimulator.cs",
-              "ToolTip": "C:\\Users\\27725\\OneDrive\\Desktop\\GPTutor\\LeoCyberSafe\\Features\\Phishing\\PhishingSimulator.cs",
-              "RelativeToolTip": "Features\\Phishing\\PhishingSimulator.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T10:37:40.121Z",
+              "WhenOpened": "2025-04-16T09:03:17.777Z",
               "EditorCaption": ""
             }
           ]
