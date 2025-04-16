@@ -2,3 +2,6 @@ bin/
 obj/
 *.user
 *.suo
+.vs/
+*.vsidx
+*.bin
