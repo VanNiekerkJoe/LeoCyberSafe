@@ -20,3 +20,12 @@
 
 ### Quick Start
 ```bash
+
+
+LeoCyberSafe/
+├── Core/              # Core models and services
+├── Features/          # Main functionality modules
+├── Utilities/         # Helper classes
+├── Resources/         # Audio assets
+├── Program.cs         # Main entry point
+└── LeoCyberSafe.csproj
