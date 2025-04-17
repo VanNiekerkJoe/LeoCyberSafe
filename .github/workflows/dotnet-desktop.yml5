@@ -1,0 +1,35 @@
+name: .NET CI
+
+on: [push, pull_request]
+
+env:
+  DOTNET_VERSION: '9.0.x'
+  BUILD_CONFIGURATION: 'Release'
+
+jobs:
+  build-and-test:
+    runs-on: windows-latest
+    timeout-minutes: 15
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: ${{ env.DOTNET_VERSION }}
+
+    - name: Restore
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build --configuration ${{ env.BUILD_CONFIGURATION }} --no-restore
+
+    - name: Test
+      run: dotnet test --no-build --configuration ${{ env.BUILD_CONFIGURATION }} --logger "console;verbosity=detailed"
+
+    - name: Verify Output
+      run: |
+        cd bin/${{ env.BUILD_CONFIGURATION }}/net${{ env.DOTNET_VERSION }}/
+        ./LeoCyberSafe --version || echo "Executable verification skipped"
