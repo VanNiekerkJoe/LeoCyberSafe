@@ -1,58 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\",
+  "WorkspaceRootPath": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\features\\response\\responseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\features\\response\\responseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\response\\responseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\features\\response\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\response\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\leocybersafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:leocybersafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\core\\models\\threatscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:core\\models\\threatscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\core\\models\\threatreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\core\\models\\threatreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:core\\models\\threatreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\features\\password\\passwordauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\leocybersafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:leocybersafe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\core\\models\\threatscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:core\\models\\threatscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\core\\models\\usermemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:core\\models\\usermemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\core\\services\\memoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:core\\services\\memoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\features\\password\\passwordauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\password\\passwordauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\features\\password\\passwordgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\features\\password\\passwordgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\password\\passwordgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\features\\phishing\\phishingsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\features\\phishing\\phishingsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\phishing\\phishingsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\features\\questions\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\features\\questions\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\questions\\questionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\features\\securenotes\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\features\\securenotes\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\securenotes\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\features\\tips\\cybersecuritytipsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\features\\tips\\cybersecuritytipsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:features\\tips\\cybersecuritytipsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\utilities\\audiohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\utilities\\audiohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:utilities\\audiohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\leocybersafe\\leocybersafe\\utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:utilities\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|c:\\users\\27725\\source\\repos\\vanniekerkjoe\\leocybersafe\\leocybersafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9998C7E-FD75-43B0-BD3F-46E6E236B58C}|LeoCyberSafe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,164 +74,215 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LeoCyberSafe.csproj",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\LeoCyberSafe.csproj",
-              "RelativeDocumentMoniker": "LeoCyberSafe.csproj",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\LeoCyberSafe.csproj",
-              "RelativeToolTip": "LeoCyberSafe.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-16T20:11:02.751Z"
+              "Title": "ThreatReport.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\ThreatReport.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\ThreatReport.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\ThreatReport.cs",
+              "RelativeToolTip": "Core\\Models\\ThreatReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:06:20.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ThreatScanner.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\ThreatScanner.cs",
-              "RelativeDocumentMoniker": "Core\\Models\\ThreatScanner.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\ThreatScanner.cs",
-              "RelativeToolTip": "Core\\Models\\ThreatScanner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:10:53.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ThreatReport.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\ThreatReport.cs",
-              "RelativeDocumentMoniker": "Core\\Models\\ThreatReport.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\ThreatReport.cs",
-              "RelativeToolTip": "Core\\Models\\ThreatReport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:10:47.771Z"
+              "Title": "LeoCyberSafe.csproj",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\LeoCyberSafe.csproj",
+              "RelativeDocumentMoniker": "LeoCyberSafe.csproj",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\LeoCyberSafe.csproj",
+              "RelativeToolTip": "LeoCyberSafe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T15:07:19.49Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAH0AAAAJAAAAAAAAAA==",
+              "Title": "SentimentAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\SentimentAnalyzer.cs",
+              "RelativeDocumentMoniker": "Features\\Response\\SentimentAnalyzer.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\SentimentAnalyzer.cs*",
+              "RelativeToolTip": "Features\\Response\\SentimentAnalyzer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T19:27:38.523Z"
+              "WhenOpened": "2025-05-20T15:30:48.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ResponseService.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\ResponseService.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\ResponseService.cs",
               "RelativeDocumentMoniker": "Features\\Response\\ResponseService.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\ResponseService.cs",
-              "RelativeToolTip": "Features\\Response\\ResponseService.cs",
-              "ViewState": "AgIAAMEBAAAAAAAAAAAiwAsCAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\ResponseService.cs*",
+              "RelativeToolTip": "Features\\Response\\ResponseService.cs*",
+              "ViewState": "AgIAABACAAAAAAAAAADwv0UCAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T19:25:05.744Z",
+              "WhenOpened": "2025-04-17T12:48:41.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThreatScanner.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\ThreatScanner.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\ThreatScanner.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\ThreatScanner.cs",
+              "RelativeToolTip": "Core\\Models\\ThreatScanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:01:37.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PasswordAuditService.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\Password\\PasswordAuditService.cs",
-              "RelativeDocumentMoniker": "Features\\Password\\PasswordAuditService.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\Password\\PasswordAuditService.cs",
-              "RelativeToolTip": "Features\\Password\\PasswordAuditService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Title": "UserMemory.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\UserMemory.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\UserMemory.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\UserMemory.cs",
+              "RelativeToolTip": "Core\\Models\\UserMemory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:10:38.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PhishingSimulator.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\Phishing\\PhishingSimulator.cs",
-              "RelativeDocumentMoniker": "Features\\Phishing\\PhishingSimulator.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\Phishing\\PhishingSimulator.cs",
-              "RelativeToolTip": "Features\\Phishing\\PhishingSimulator.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:10:26.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "QuestionService.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\Questions\\QuestionService.cs",
-              "RelativeDocumentMoniker": "Features\\Questions\\QuestionService.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\Questions\\QuestionService.cs",
-              "RelativeToolTip": "Features\\Questions\\QuestionService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAiwFAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:10:18.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NoteService.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\SecureNotes\\NoteService.cs",
-              "RelativeDocumentMoniker": "Features\\SecureNotes\\NoteService.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\SecureNotes\\NoteService.cs",
-              "RelativeToolTip": "Features\\SecureNotes\\NoteService.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAiwLIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:10:06.398Z"
+              "WhenOpened": "2025-05-20T15:29:51.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "MemoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Core\\Services\\MemoryServices.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\MemoryServices.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Core\\Services\\MemoryServices.cs",
+              "RelativeToolTip": "Core\\Services\\MemoryServices.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:29:49.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordAuditService.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Password\\PasswordAuditService.cs",
+              "RelativeDocumentMoniker": "Features\\Password\\PasswordAuditService.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Password\\PasswordAuditService.cs",
+              "RelativeToolTip": "Features\\Password\\PasswordAuditService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:55:20.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PasswordGeneratorService.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\Password\\PasswordGeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Password\\PasswordGeneratorService.cs",
               "RelativeDocumentMoniker": "Features\\Password\\PasswordGeneratorService.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\Password\\PasswordGeneratorService.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Password\\PasswordGeneratorService.cs",
               "RelativeToolTip": "Features\\Password\\PasswordGeneratorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T19:28:59.131Z"
+              "WhenOpened": "2025-05-20T15:05:59.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhishingSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Phishing\\PhishingSimulator.cs",
+              "RelativeDocumentMoniker": "Features\\Phishing\\PhishingSimulator.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Phishing\\PhishingSimulator.cs",
+              "RelativeToolTip": "Features\\Phishing\\PhishingSimulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:00:54.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CybersecurityTipsService.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\Tips\\CybersecurityTipsService.cs",
-              "RelativeDocumentMoniker": "Features\\Tips\\CybersecurityTipsService.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Features\\Tips\\CybersecurityTipsService.cs",
-              "RelativeToolTip": "Features\\Tips\\CybersecurityTipsService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Title": "QuestionService.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Questions\\QuestionService.cs",
+              "RelativeDocumentMoniker": "Features\\Questions\\QuestionService.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Questions\\QuestionService.cs",
+              "RelativeToolTip": "Features\\Questions\\QuestionService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:09:56.273Z"
+              "WhenOpened": "2025-05-20T15:05:37.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AudioHelper.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Utilities\\AudioHelper.cs",
-              "RelativeDocumentMoniker": "Utilities\\AudioHelper.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Utilities\\AudioHelper.cs",
-              "RelativeToolTip": "Utilities\\AudioHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\SecureNotes\\NoteService.cs",
+              "RelativeDocumentMoniker": "Features\\SecureNotes\\NoteService.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\SecureNotes\\NoteService.cs",
+              "RelativeToolTip": "Features\\SecureNotes\\NoteService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwLIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:09:46.698Z"
+              "WhenOpened": "2025-04-17T12:52:48.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ConsoleHelper.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Utilities\\ConsoleHelper.cs",
-              "RelativeDocumentMoniker": "Utilities\\ConsoleHelper.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\LeoCyberSafe\\LeoCyberSafe\\Utilities\\ConsoleHelper.cs",
-              "RelativeToolTip": "Utilities\\ConsoleHelper.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAswMAAAAAAAAAAAAAAAA==",
+              "Title": "CybersecurityTipsService.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Tips\\CybersecurityTipsService.cs",
+              "RelativeDocumentMoniker": "Features\\Tips\\CybersecurityTipsService.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Tips\\CybersecurityTipsService.cs",
+              "RelativeToolTip": "Features\\Tips\\CybersecurityTipsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T19:29:14.364Z"
+              "WhenOpened": "2025-05-20T15:05:16.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AudioHelper.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Utilities\\AudioHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\AudioHelper.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Utilities\\AudioHelper.cs",
+              "RelativeToolTip": "Utilities\\AudioHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:05:04.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Utilities\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "Utilities\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Utilities\\ConsoleHelper.cs",
+              "RelativeToolTip": "Utilities\\ConsoleHelper.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAUwMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:48:22.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAQwNwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:50:41.383Z",
+              "EditorCaption": ""
             }
           ]
         }

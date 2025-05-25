@@ -19,20 +19,17 @@ namespace LeoCyberSafe
             var phishingService = new PhishingSimulator();
             var threatScanner = new ThreatScanner();
             var tipsService = new CybersecurityTipsService();
+            var userMemory = new UserMemory(); // Create UserMemory instance
 
             // Part 1 Requirements
             AudioHelper.PlayWelcomeSound();
             ConsoleHelper.DisplayAsciiArt();
-            string userName = ConsoleHelper.GetValidName();
-
-            // Initialize Secure Notes
-            Console.Write("\nSet master password for secure notes: ");
-            NoteService.Initialize(ConsoleHelper.ReadPassword());
+            userMemory.Name = ConsoleHelper.GetValidName();
 
             bool exitRequested = false;
             while (!exitRequested)
             {
-                ConsoleHelper.DisplayMainMenu(userName);
+                ConsoleHelper.DisplayMainMenu(userMemory.Name);
                 tipsService.DisplayRandomTip();
 
                 int choice = ConsoleHelper.GetMenuChoice();
@@ -48,7 +45,7 @@ namespace LeoCyberSafe
                         break;
 
                     case 2: // Phishing Test
-                        phishingService.StartSimulation(userName);
+                        phishingService.StartSimulation(userMemory.Name);
                         tipsService.DisplayTipsByCategory("phishing");
                         break;
 
@@ -81,7 +78,19 @@ namespace LeoCyberSafe
 
                     case 8: // Exit
                         exitRequested = true;
-                        ConsoleHelper.PrintExitMessage(userName);
+                        ConsoleHelper.PrintExitMessage(userMemory.Name);
+                        break;
+
+                    case 9: // Remember Interest
+                        Console.Write("\nEnter an interest to remember: ");
+                        string interest = Console.ReadLine();
+                        userMemory.RememberInterest(interest);
+                        Console.WriteLine("✓ Interest remembered.");
+                        break;
+
+                    case 10: // Recall Interests
+                        userMemory.RecallInterests();
+                        ConsoleHelper.PromptToContinue();
                         break;
 
                     default:

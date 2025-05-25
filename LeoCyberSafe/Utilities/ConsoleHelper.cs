@@ -83,6 +83,8 @@ namespace LeoCyberSafe.Utilities
 ║ 6. 💬 Basic Response       ║
 ║ 7. 📝 Secure Notes         ║
 ║ 8. 🚪 Exit                 ║
+║ 9. 🧠 Remember Interest    ║
+║ 10.📖 Recall Interests     ║
 ╚════════════════════════════╝");
 
             Console.ResetColor();
