@@ -27,16 +27,26 @@
         return "neutral";
     }
 
-    public string GetResponseAdjustment(string sentiment)
+    public string GetResponseAdjustment(string sentiment, string topic)
     {
         return sentiment switch
         {
-            "worried" => "I understand this can be concerning. Let me reassure you that",
-            "frustrated" => "I apologize for the frustration. Let me help resolve this by",
-            "curious" => "That's a great question! Here's what you should know:",
-            "confused" => "I'd be happy to clarify this for you. Essentially,",
-            "excited" => "That's wonderful to hear! I'm excited to share that",
+            "worried" => $"I'm sorry that you're worried about {topic}. They are easier than they seem. {GetTopicAdvice(topic)}",
+            "frustrated" => $"I understand that passwords can be frustrating. {GetTopicAdvice(topic)}",
+            "curious" => $"That's a great question about {topic}! Here's what you should know: {GetTopicAdvice(topic)}",
+            "confused" => $"I can clarify that for you regarding {topic}. {GetTopicAdvice(topic)}",
+            "excited" => $"That's wonderful to hear! I'm excited to share more about {topic}. {GetTopicAdvice(topic)}",
             _ => ""
+        };
+    }
+
+    private string GetTopicAdvice(string topic)
+    {
+        return topic switch
+        {
+            "vpn" => "VPNs are tools that encrypt your internet connection and help protect your privacy online.",
+            "passwords" => "Using a password manager can help you create and store strong passwords securely.",
+            _ => "Feel free to ask more about this topic!"
         };
     }
 }

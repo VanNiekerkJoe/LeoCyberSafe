@@ -75,4 +75,24 @@ public class UserMemory
     {
         return new Dictionary<string, string>(_preferences); // Return a copy of preferences
     }
+
+    public void SuggestRelatedInterests(string currentInput)
+    {
+        var suggestions = Interests
+            .Where(t => currentInput.ToLower().Contains(t.ToLower()))
+            .ToList();
+
+        if (suggestions.Any())
+        {
+            Console.WriteLine("You might also be interested in:");
+            foreach (var suggestion in suggestions)
+            {
+                Console.WriteLine($"- {suggestion}");
+            }
+        }
+        else
+        {
+            Console.WriteLine("No related interests found.");
+        }
+    }
 }

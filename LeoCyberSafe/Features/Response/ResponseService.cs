@@ -15,7 +15,7 @@ namespace LeoCyberSafe.Features.Response
         {
             // ===== GREETINGS (32 responses) =====
             ["greeting"] = new() {
-                new("🔒 Hello! Security bot at your service!", ConsoleColor.Cyan),
+                new(" Hello! Security bot at your service!", ConsoleColor.Cyan),
                 new("👋 Hi there! Ask me anything security-related!", ConsoleColor.Blue),
                 new("💻 Hello! Let's talk cybersecurity!", ConsoleColor.DarkCyan),
                 new("🛡️ Greetings! Your digital bodyguard here!", ConsoleColor.Green),
@@ -592,7 +592,7 @@ namespace LeoCyberSafe.Features.Response
         public static void DisplayHelp()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("\n📚 CYBERSECURITY KNOWLEDGE BASE");
+            Console.WriteLine("\n CYBERSECURITY KNOWLEDGE BASE");
             Console.WriteLine("══════════════════════════════════");
             Console.WriteLine("Available categories:");
 

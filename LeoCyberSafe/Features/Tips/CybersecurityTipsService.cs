@@ -9,22 +9,22 @@ namespace LeoCyberSafe.Features.Tips
         {
             ["passwords"] = new List<string>
             {
-                "🔐 Use passphrases instead of passwords (e.g., 'PurpleMountain$unset42')",
-                "🔐 Enable two-factor authentication everywhere possible",
-                "🔐 Never reuse passwords across different sites"
+                " Use passphrases instead of passwords (e.g., 'PurpleMountain$unset42')",
+                " Enable two-factor authentication everywhere possible",
+                " Never reuse passwords across different sites"
             },
             ["phishing"] = new List<string>
             {
-                "🎣 Check email sender addresses carefully",
-                "🎣 Hover over links before clicking to see the real URL",
-                "🎣 Be wary of urgent/too-good-to-be-true offers"
+                " Check email sender addresses carefully",
+                " Hover over links before clicking to see the real URL",
+                " Be wary of urgent/too-good-to-be-true offers"
             },
             ["general"] = new List<string>
             {
-                "💡 Update your software regularly",
-                "💡 Use a VPN on public WiFi networks",
-                "💡 Backup important data using the 3-2-1 rule",
-                "💡 Review app permissions on your devices monthly"
+                " Update your software regularly",
+                " Use a VPN on public WiFi networks",
+                " Backup important data using the 3-2-1 rule",
+                " Review app permissions on your devices monthly"
             }
         };
 

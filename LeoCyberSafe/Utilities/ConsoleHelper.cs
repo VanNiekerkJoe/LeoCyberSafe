@@ -75,16 +75,16 @@ namespace LeoCyberSafe.Utilities
 ╔════════════════════════════╗
 ║   LEO CYBERSAFE v2.1       ║
 ╠════════════════════════════╣
-║ 1. 🔐 Password Audit       ║
-║ 2. 🎣 Phishing Test        ║
-║ 3. ⚠️  Threat Scan         ║
-║ 4. 📚 Security Tips        ║
-║ 5. 🛠️  Password Generator  ║
-║ 6. 💬 Basic Response       ║
-║ 7. 📝 Secure Notes         ║
-║ 8. 🚪 Exit                 ║
-║ 9. 🧠 Remember Interest    ║
-║ 10.📖 Recall Interests     ║
+║ 1.  Password Audit       ║
+║ 2.  Phishing Test        ║
+║ 3.   Threat Scan         ║
+║ 4.  Security Tips        ║
+║ 5.   Password Generator  ║
+║ 6.  Basic Response       ║
+║ 7.  Secure Notes         ║
+║ 8.  Exit                 ║
+║ 9.  Remember Interest    ║
+║ 10. Recall Interests     ║
 ╚════════════════════════════╝");
 
             Console.ResetColor();
@@ -158,8 +158,8 @@ namespace LeoCyberSafe.Utilities
             Thread.Sleep(2000);
         }
 
-            // Add to existing ConsoleHelper class
-public static void DisplayTipsMenu()
+        // Add to existing ConsoleHelper class
+        public static void DisplayTipsMenu()
         {
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine(@"
@@ -191,4 +191,4 @@ public static void DisplayTipsMenu()
             Console.ResetColor();
         }
     }
-    }
+}
