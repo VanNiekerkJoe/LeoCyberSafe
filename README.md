@@ -27,7 +27,7 @@ Randomized Tips: Varied responses for common security questions
 🛠️ Installation
 bash
 # Clone the repository
-[git clone https://github.com/yourusername/cybersecurity-chatbot.git](https://github.com/VanNiekerkJoe/LeoCyberSafe.git)
+https://github.com/VanNiekerkJoe/LeoCyberSafe.git
 
 # Navigate to project directory
 cd cybersecurity-chatbot
