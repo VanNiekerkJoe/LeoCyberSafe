@@ -37,15 +37,25 @@ dotnet run
 
 🖥️ Menu Options Guide
 Option	Command	Description
+
 1	Password Audit	Enter a password to receive a security score and improvement suggestions
+
 2️	Phishing Test	Interactive simulation of phishing email identification
+
 3️	Threat Scan	Generates a mock system vulnerability report
+
 4️	Security Tips	Browse tips by category (passwords/phishing/general)
+
 5️	Password Generator	Creates 3 secure password variants
+
 6️	Chatbot Mode	Interactive Q&A about cybersecurity topics
+
 7️	Secure Notes	Encrypted notes storage with master password
+
 8️	Exit	Gracefully closes the application
+
 9 Allows for user inputs on interests
+
 10 Allows user to see previous interests 
 
 💬 Chatbot Commands
