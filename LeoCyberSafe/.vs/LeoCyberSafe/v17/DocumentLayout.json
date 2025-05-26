@@ -74,19 +74,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ThreatReport.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\ThreatReport.cs",
-              "RelativeDocumentMoniker": "Core\\Models\\ThreatReport.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\ThreatReport.cs",
-              "RelativeToolTip": "Core\\Models\\ThreatReport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SentimentAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\SentimentAnalyzer.cs",
+              "RelativeDocumentMoniker": "Features\\Response\\SentimentAnalyzer.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\SentimentAnalyzer.cs",
+              "RelativeToolTip": "Features\\Response\\SentimentAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T15:06:20.961Z",
+              "WhenOpened": "2025-05-20T15:30:48.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseService.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\ResponseService.cs",
+              "RelativeDocumentMoniker": "Features\\Response\\ResponseService.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\ResponseService.cs",
+              "RelativeToolTip": "Features\\Response\\ResponseService.cs",
+              "ViewState": "AgIAAGsCAAAAAAAAAAAqwJACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:48:41.468Z",
               "EditorCaption": ""
             },
             {
@@ -99,34 +111,19 @@
               "RelativeToolTip": "LeoCyberSafe.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-20T15:07:19.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T15:07:19.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SentimentAnalyzer.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\SentimentAnalyzer.cs",
-              "RelativeDocumentMoniker": "Features\\Response\\SentimentAnalyzer.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\SentimentAnalyzer.cs*",
-              "RelativeToolTip": "Features\\Response\\SentimentAnalyzer.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ThreatReport.cs",
+              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\ThreatReport.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\ThreatReport.cs",
+              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Core\\Models\\ThreatReport.cs",
+              "RelativeToolTip": "Core\\Models\\ThreatReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T15:30:48.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ResponseService.cs",
-              "DocumentMoniker": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\ResponseService.cs",
-              "RelativeDocumentMoniker": "Features\\Response\\ResponseService.cs",
-              "ToolTip": "C:\\Users\\27725\\source\\repos\\VanNiekerkJoe\\LeoCyberSafe\\LeoCyberSafe\\Features\\Response\\ResponseService.cs*",
-              "RelativeToolTip": "Features\\Response\\ResponseService.cs*",
-              "ViewState": "AgIAABACAAAAAAAAAADwv0UCAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:48:41.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T15:06:20.961Z"
             },
             {
               "$type": "Document",
@@ -138,8 +135,7 @@
               "RelativeToolTip": "Core\\Models\\ThreatScanner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T13:01:37.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T13:01:37.761Z"
             },
             {
               "$type": "Document",
@@ -151,8 +147,7 @@
               "RelativeToolTip": "Core\\Models\\UserMemory.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T15:29:51.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T15:29:51.975Z"
             },
             {
               "$type": "Document",
@@ -164,8 +159,7 @@
               "RelativeToolTip": "Core\\Services\\MemoryServices.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAkwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T13:29:49.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T13:29:49.72Z"
             },
             {
               "$type": "Document",
@@ -177,8 +171,7 @@
               "RelativeToolTip": "Features\\Password\\PasswordAuditService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T13:55:20.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T13:55:20.288Z"
             },
             {
               "$type": "Document",
@@ -190,8 +183,7 @@
               "RelativeToolTip": "Features\\Password\\PasswordGeneratorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T15:05:59.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T15:05:59.332Z"
             },
             {
               "$type": "Document",
@@ -203,8 +195,7 @@
               "RelativeToolTip": "Features\\Phishing\\PhishingSimulator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwEQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T13:00:54.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T13:00:54.924Z"
             },
             {
               "$type": "Document",
@@ -216,8 +207,7 @@
               "RelativeToolTip": "Features\\Questions\\QuestionService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T15:05:37.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T15:05:37.83Z"
             },
             {
               "$type": "Document",
@@ -229,8 +219,7 @@
               "RelativeToolTip": "Features\\SecureNotes\\NoteService.cs",
               "ViewState": "AgIAAG0AAAAAAAAAAAAQwLIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:52:48.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T12:52:48.702Z"
             },
             {
               "$type": "Document",
@@ -242,8 +231,7 @@
               "RelativeToolTip": "Features\\Tips\\CybersecurityTipsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T15:05:16.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T15:05:16.739Z"
             },
             {
               "$type": "Document",
@@ -255,8 +243,7 @@
               "RelativeToolTip": "Utilities\\AudioHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T15:05:04.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T15:05:04.806Z"
             },
             {
               "$type": "Document",
@@ -268,8 +255,7 @@
               "RelativeToolTip": "Utilities\\ConsoleHelper.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAAAUwMIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:48:22.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T12:48:22.978Z"
             },
             {
               "$type": "Document",
@@ -281,8 +267,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAJkAAAAAAAAAAAAQwNwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:50:41.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T12:50:41.383Z"
             }
           ]
         }
