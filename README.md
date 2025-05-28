@@ -1,6 +1,6 @@
 # Cybersecurity Awareness Chatbot
 
-## Project Banner
+## Project Overview
 
 An interactive chatbot designed to educate users about cybersecurity best practices through simulated threats, password analysis, and personalized security tips.
 
@@ -19,30 +19,20 @@ An interactive chatbot designed to educate users about cybersecurity best practi
 - **Personalized Guidance**: Remembers user interests and preferences.
 - **Randomized Tips**: Varied responses for common security questions.
 
-## Installation
-```bash
-# Clone the repository
-git clone https://github.com/VanNiekerkJoe/LeoCyberSafe.git
-
-# Navigate to project directory
-cd LeoCyberSafe
-
-# Build and run (requires .NET 6+)
-dotnet run
 Menu Options Guide
 
-Option	Command	Description
-1	Password Audit	Enter a password to receive a security score and suggestions.
-2	Phishing Test	Interactive simulation of phishing email identification.
-3	Threat Scan	Generates a mock system vulnerability report.
-4	Security Tips	Browse tips by category (passwords, phishing, general).
-5	Password Generator	Creates three secure password variants.
-6	Chatbot Mode	Interactive Q&A about cybersecurity topics.
-7	Secure Notes	Encrypted note storage with master password.
-8	Exit	Gracefully closes the application.
-9	Remember Interest	Stores user interests for personalized tips.
-10	Recall Interests	Displays previously stored user interests.
-Chatbot Commands
+Commands
+1	Password Audit :	Enter a password to receive a security score and suggestions.
+2	Phishing Test :	Interactive simulation of phishing email identification.
+3	Threat Scan	: Generates a mock system vulnerability report.
+4	Security Tips	: Browse tips by category (passwords, phishing, general).
+5	Password Generator :	Creates three secure password variants.
+6	Chatbot Mode	: Interactive Q&A about cybersecurity topics.
+7	Secure Notes:	Encrypted note storage with master password.
+8	Exit	: Gracefully closes the application.
+9	Remember Interest :	Stores user interests for personalized tips.
+10	Recall Interests:	Displays previously stored user interests.
+
 password tips - Best practices for creating secure passwords.
 spot phishing - How to identify scam emails.
 remember I like privacy - Stores your interest for future tips.
@@ -52,7 +42,7 @@ help - Shows available command categories.
 Memory & Personalization
 The chatbot remembers:
 
-Your name (for personalized greetings).
+Your name for personalized greetings.
 Topics of interest (e.g., "remember I care about privacy").
 Conversation context for follow-up questions.
 Emotional tone to adjust responses.
@@ -62,11 +52,3 @@ Password input masking.
 Encrypted data storage.
 No internet connection required.
 All security analysis performed locally.
-Learning Objectives
-This project demonstrates:
-
-Secure password handling practices.
-Common phishing techniques.
-Cybersecurity fundamentals.
-Encryption implementation.
-Secure coding principles.
